@@ -6,6 +6,7 @@ p {
 	font-size: 24px;
 	font-family: Comic Sans MS, Comic Sans, cursive;
         color: white;
+	background-image: linear-gradient(to right,cyan,yellow);
 }
 h1 {
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
